@@ -1,0 +1,4 @@
+huggingface_hub==0.29.2
+langchain_chroma==0.2.2
+langchain_community==0.3.19
+langchain_text_splitters==0.3.6
